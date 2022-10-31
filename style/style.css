@@ -20,7 +20,7 @@ h1 {
     border: solid;
     border-color: whitesmoke;
     border-width: 10px;
-    max-width: 400px;
+    width: 230px;
     background-color: rgba(73, 70, 65, 0.466);
     border-radius: 15px;
 }
@@ -31,7 +31,7 @@ h1 {
 }
 
 .social-logo {
-    max-width: 300px;
+    max-width: 230px;
 }
 
 .position {
