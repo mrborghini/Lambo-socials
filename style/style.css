@@ -20,7 +20,7 @@ h1 {
     border: solid;
     border-color: whitesmoke;
     border-width: 10px;
-    max-width: 500px;
+    max-width: 400px;
     background-color: rgba(73, 70, 65, 0.466);
     border-radius: 15px;
 }
@@ -31,7 +31,7 @@ h1 {
 }
 
 .social-logo {
-    max-width: 400px;
+    max-width: 300px;
 }
 
 .position {
@@ -54,7 +54,7 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 15px;
-    max-width: 500px;
+    max-width: 400px;
     background-color: rgb(73, 70, 65, 0.466);
     border: solid;
     border-color: whitesmoke;
