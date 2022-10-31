@@ -62,11 +62,11 @@ footer {
     border-radius: 15px;
 }
 
-#dc {
+.dc {
     color: aqua;
 }
 
-#dc:hover {
+.dc:hover {
     color: rgb(175, 223, 223);
 }
 
