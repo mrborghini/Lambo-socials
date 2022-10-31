@@ -64,6 +64,7 @@ footer {
 
 .dc {
     color: aqua;
+    text-decoration: underline;
 }
 
 .dc:hover {
@@ -79,4 +80,8 @@ footer {
     gap: 15px;
     justify-content: center;
     margin-top: 15px;
+}
+
+a{
+    text-decoration: none;
 }
