@@ -17,6 +17,7 @@ h1 {
 }
 
 .item {
+    display: flex;
     border: solid;
     border-color: whitesmoke;
     border-width: 10px;
