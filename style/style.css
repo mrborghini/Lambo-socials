@@ -17,6 +17,7 @@ h1 {
 }
 
 .item {
+    display: flex;
     border: solid;
     border-color: whitesmoke;
     border-width: 10px;
@@ -84,6 +85,7 @@ footer {
     margin-top: 15px;
 }
 
-a{
+a {
     text-decoration: none;
+    gap: 5px;
 }
