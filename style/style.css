@@ -29,7 +29,9 @@ h1 {
     background-color: gray;
     border-color: rgb(161, 55, 55);
 }
-
+.item:active{
+    transform: translateY(5px);
+}
 .social-logo {
     max-width: 230px;
 }
