@@ -1,8 +1,9 @@
 
 let TimeElement = document.getElementById('time');
 let FullDate = new Date;
-let time = FullDate.getHours();
-const Part = ['Good Night :)', 'Good morning :)', 'Good Evening :)', 'Good Afternoon :)'];
+let time = FullDate.getHours(); 
+// let time = 1; //timetest
+const Part = ['You should not be awake right now. Sleep well :)', 'Good morning :)', 'Good Evening :)', 'Good Afternoon :)'];
 let count = 0;
 switch (true) {
     case time > 17:
