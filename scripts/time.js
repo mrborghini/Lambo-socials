@@ -21,5 +21,3 @@ switch (true) {
 }
 console.log(Part[count], time);
 TimeElement.innerHTML = Part[count];
-
-
