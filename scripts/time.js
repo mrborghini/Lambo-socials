@@ -1,4 +1,3 @@
-
 let TimeElement = document.getElementById('time');
 let FullDate = new Date;
 let time = FullDate.getHours(); 
