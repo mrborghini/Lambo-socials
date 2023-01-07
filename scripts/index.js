@@ -1,10 +1,10 @@
 Greeting();
 
 function Greeting() {
-    let TimeElement = document.getElementById('time');
-    let FullDate = new Date;
-    let time = FullDate.getHours();
-    // let time = 1; //timetest
+    const TimeElement = document.getElementById('time');
+    const FullDate = new Date;
+    const time = FullDate.getHours();
+    // const time = 1; //timetest
     const Part = ['You should not be awake right now. Sleep well :)', 'Good morning :)', 'Good Evening :)', 'Good Afternoon :)'];
     let count = 0;
     switch (true) {
