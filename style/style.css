@@ -25,6 +25,7 @@ h1 {
     width: 230px;
     background-color: rgba(73, 70, 65, 0.466);
     border-radius: 15px;
+    min-height: 200px;
 }
 
 .item:hover:not(:first-child) {
