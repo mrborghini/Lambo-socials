@@ -90,3 +90,8 @@ a {
     text-decoration: none;
     gap: 5px;
 }
+
+#backButton{
+    display: inline-block;
+    margin: auto;
+}
