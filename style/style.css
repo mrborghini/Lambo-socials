@@ -23,6 +23,7 @@ h1 {
     border-color: whitesmoke;
     border-width: 10px;
     width: 230px;
+    height: 200px;
     background-color: rgba(73, 70, 65, 0.466);
     border-radius: 15px;
 }
