@@ -93,6 +93,7 @@ a {
 }
 
 #backButton{
-    display: inline-block;
-    margin-top: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
